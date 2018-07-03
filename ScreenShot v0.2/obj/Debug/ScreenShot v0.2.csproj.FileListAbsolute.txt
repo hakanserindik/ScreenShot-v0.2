@@ -1,0 +1,10 @@
+c:\users\hakan\documents\visual studio 2015\Projects\ScreenShot v0.2\ScreenShot v0.2\bin\Debug\ScreenShot v0.2.exe.config
+c:\users\hakan\documents\visual studio 2015\Projects\ScreenShot v0.2\ScreenShot v0.2\bin\Debug\ScreenShot v0.2.exe
+c:\users\hakan\documents\visual studio 2015\Projects\ScreenShot v0.2\ScreenShot v0.2\bin\Debug\ScreenShot v0.2.pdb
+c:\users\hakan\documents\visual studio 2015\Projects\ScreenShot v0.2\ScreenShot v0.2\obj\Debug\ScreenShot v0.2.csprojResolveAssemblyReference.cache
+c:\users\hakan\documents\visual studio 2015\Projects\ScreenShot v0.2\ScreenShot v0.2\obj\Debug\ScreenShot_v0._2.Form1.resources
+c:\users\hakan\documents\visual studio 2015\Projects\ScreenShot v0.2\ScreenShot v0.2\obj\Debug\ScreenShot_v0._2.Properties.Resources.resources
+c:\users\hakan\documents\visual studio 2015\Projects\ScreenShot v0.2\ScreenShot v0.2\obj\Debug\ScreenShot v0.2.csproj.GenerateResource.Cache
+c:\users\hakan\documents\visual studio 2015\Projects\ScreenShot v0.2\ScreenShot v0.2\obj\Debug\ScreenShot v0.2.exe
+c:\users\hakan\documents\visual studio 2015\Projects\ScreenShot v0.2\ScreenShot v0.2\obj\Debug\ScreenShot v0.2.pdb
+C:\Users\HAKAN\documents\visual studio 2015\Projects\ScreenShot v0.2\ScreenShot v0.2\obj\Debug\ScreenShot_v0._2.Form2.resources
